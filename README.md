@@ -1,7 +1,8 @@
 # NSW 2018 Drought visualisation
-================================
 
 This is a simple visualisation of the drought affecting NSW, Australia in the winter of 2018.
+
+![alt text](img/diff.png)
 
 ## Methodology
 
